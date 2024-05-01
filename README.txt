@@ -11,3 +11,6 @@ This flight simulator is a simple project I made in my free time. It does not de
 ## Controls
 
 Controls are listed on the main menu
+
+The file is too large for github, get it on google drive: 
+https://drive.google.com/file/d/1qhOqytmp0sr_B3mN68bPbis-AG47ge_Q/view?usp=drive_link
